@@ -6,7 +6,7 @@ Hi. My name is [Peter](https://www.linkedin.com/in/peter-lembke-4b607293/) and I
 
 Infohub is your private hub on the Web. You can store private information. Only you can read your information in your browser.
 
-Home page: https://infohub.se/
+Home page: [https://infohub.se/](https://infohub.se/)
 
 ## Web application
 You can run your own Infohub web site or be invited by a trusted friend to become a user on her Infohub web site. Developers can create applications that you can install into your Infohub.
@@ -15,6 +15,7 @@ You can run your own Infohub web site or be invited by a trusted friend to becom
 Infohub encrypt your data in the browser before it is sent to the server for storage. The server can not decrypt your data. The login procedure never reveal any secrets.
 
 Infohub is open source. You can see and review the code at Github.
+
 Source code: [https://github.com/peterlembke/infohub](https://github.com/peterlembke/infohub)
 
 ## What can Infohub do?
@@ -37,7 +38,7 @@ __Site owners__ can administrate login accounts in [Node contacts](https://githu
 [Assets](https://github.com/peterlembke/infohub/blob/master/folder/plugins/infohub/asset/infohub_asset.md) give credit to the creators of all graphics and sounds used in Infohub. Each asset has a license file and you can see all information here.
 
 ## What do I need to use Infohub?
-You need a computer or chromebook or telephone or tablet that can run a modern web browser.
+You need a computer or Chromebook or telephone or tablet that can run a modern web browser.
 
 Infohub works in Chrome, Firefox, Safari and probably in all browsers that are based on any of them.
 
