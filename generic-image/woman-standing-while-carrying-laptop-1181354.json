@@ -1,0 +1,19 @@
+{
+    "publisher_name": "Pexels",
+    "publisher_url": "https://www.pexels.com",
+    "publisher_note": "The best free stock photos & videos shared by talented creators.",
+    "publisher_video_url": "",
+    "collection_name": "",
+    "collection_url": "",
+    "collection_note": "",
+    "license_name": "custom",
+    "license_url": "https://www.pexels.com/license/",
+    "license_note": "Custom free license",
+    "author_name": "Christina Morillo",
+    "author_url": "https://www.pexels.com/@divinetechygirl",
+    "author_note": "",
+    "icon_name": "Gray Laptop Computer Showing Html Codes in Shallow Focus Photography",
+    "icon_url": "https://www.pexels.com/photo/woman-standing-while-carrying-laptop-1181354/",
+    "icon_note": "Gray Laptop Computer Showing Html Codes in Shallow Focus Photography",
+    "attribute": "{icon_name|icon_url} from {collection_name|collection_url} by {author_name|author_url} from {publisher_name|publisher_url}, License {license_name|license_url}"
+}
