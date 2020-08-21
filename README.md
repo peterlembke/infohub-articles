@@ -4,8 +4,8 @@ Welcome to the Infohub wiki. Here you will find articles in English and Swedish 
 Article name|English Wiki|English LinkedIn|Swedish wiki|Video
 ---|---|---|---|---
 What is Infohub?|[Yes](english-text/what-is-infohub.md)|[-](http://infohub.se)|[-](http://infohub.se)|[-](http://infohub.se)
-Infohub privacy|[Yes](english-text/infohub-privacy.md)|[-](http://infohub.se)|[Yes](english-text/infohub-privacy.md)|No
-Infohub installation|[Yes](english-text/infohub-installation.md)|No|[Yes](swedsih-text/infohub-installation.md)|No
+Infohub privacy|[Yes](english-text/infohub-privacy.md)|[-](http://infohub.se)|[Yes](swedish-text/infohub-privacy.md)|No
+Infohub installation|[Yes](english-text/infohub-installation.md)|No|[Yes](swedish-text/infohub-installation.md)|No
 Why is Infohub fast?|[Yes](english-text/why-is-infohub-fast.md)|[-](http://infohub.se)|[-](http://infohub.se)|No
 Infohub developer|[-](http://infohub.se)|No|[-](http://infohub.se)|No
 Infohub on Raspberry Pi 3|[-](http://infohub.se)|No|[-](http://infohub.se)|No
