@@ -1,4 +1,4 @@
-![What is infohub logo](../generic-image/pexels-eyüp-belen-1428626-modified-sv.jpg)
+![What is infohub logo](../generic-image/pexels-eyüp-belen-1428626-sv.jpg)
 
 # Vad är Infohub?
 Publik: Du  

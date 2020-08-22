@@ -1,4 +1,4 @@
-![What is infohub logo](../generic-image/pexels-eyüp-belen-1428626-modified2.jpg)
+![What is infohub logo](../generic-image/pexels-eyüp-belen-1428626-en.jpg)
 
 # What is Infohub?
 Audience: You  
