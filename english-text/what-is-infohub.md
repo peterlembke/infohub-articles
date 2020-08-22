@@ -1,3 +1,5 @@
+![What is infohub logo](../generic-image/pexels-eyüp-belen-1428626-modified2.jpg)
+
 # What is Infohub?
 Audience: You  
 Read time: 4 minutes (double that if the puppy want attention)

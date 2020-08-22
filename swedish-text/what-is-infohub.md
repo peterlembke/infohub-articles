@@ -1,3 +1,5 @@
+![What is infohub logo](../generic-image/pexels-eyüp-belen-1428626-modified-sv.jpg)
+
 # Vad är Infohub?
 Publik: Du  
 Lästid: 4 minuter
