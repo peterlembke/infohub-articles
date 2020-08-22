@@ -1,3 +1,5 @@
+![What is infohub logo](../generic-image/pexels-pixabay-371662-sv.jpg)
+
 # Infohub Integritet
 Publik: Integritetsentusiaster  
 Lästid: 4 minuter
