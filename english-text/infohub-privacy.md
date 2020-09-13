@@ -1,4 +1,4 @@
-![What is infohub logo](../generic-image/pexels-pixabay-371662-sv.jpg)
+![Infohub privacy](../generic-image/pexels-pixabay-371662-en.jpg)
 
 # Infohub privacy
 Audience: Privacy enthusiasts

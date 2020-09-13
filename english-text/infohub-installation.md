@@ -1,3 +1,5 @@
+![Install Infohub](../generic-image/pexels-vlada-karpovich-4050295-en.jpg)
+
 # Infohub installation
 Audience: Persons that want to run their own Infohub web site.
 Read time: 4 min

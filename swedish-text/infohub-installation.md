@@ -1,3 +1,5 @@
+![Installera Infohub](../generic-image/pexels-vlada-karpovich-4050295-sv.jpg)
+
 # Installera Infohub
 Publik: Personer som vill köra sin egen Infohub webbplats.  
 Lästid: 4 min

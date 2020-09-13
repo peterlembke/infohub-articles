@@ -1,4 +1,4 @@
-![What is infohub logo](../generic-image/pexels-roman-pohorecki-287398-sv.jpg)
+![Varför är Infohub snabbt](../generic-image/pexels-roman-pohorecki-287398-sv.jpg)
 
 # Varför är Infohub snabbt?
 
