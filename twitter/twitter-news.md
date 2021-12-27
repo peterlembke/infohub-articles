@@ -25,7 +25,7 @@ You can test #infohub. I have set up a #demo for you to test. Swedish browsers w
 https://infohub.se/
 
 2020-10-02 8:00
-You find the #infohub #sourcecode to all the releases on Github.
+You find the #infohub #sourcecode to all the releases on GitHub.
 https://github.com/peterlembke/infohub
 
 2020-10-03 8:00
@@ -37,7 +37,7 @@ Each #infohub plugin has its own #documentation file. Here you see the doc for W
 https://github.com/peterlembke/infohub/blob/master/folder/plugins/infohub/workbench/infohub_workbench.md
 
 2020-10-05 8:00
-If you want to #support my effort on #infohub then I have a Paypal page. Thank you.
+If you want to #support my effort on #infohub then I have a PayPal page. Thank you.
 https://www.paypal.com/paypalme/peterlembke
 
 2020-10-06 8:00
@@ -45,7 +45,7 @@ The #avif image format will soon be the choice for all bitmap images. #infohub h
 https://reachlightspeed.com/blog/using-the-new-high-performance-avif-image-format-on-the-web-today/
 
 2020-10-07 8:00
-#infohub require all media to have a #license file. The authors rights must be protected.
+#infohub require all media to have a #license file. The authors right must be protected.
 https://github.com/peterlembke/infohub/blob/master/folder/plugins/infohub/asset/infohub_asset.md
 
 2020-10-08 8:00
@@ -56,7 +56,7 @@ https://www.sakerhetspolisen.se/download/18.f2735ce171767402ba202/1591164566288/
 https://www.sakerhetspolisen.se/download/18.f2735ce171767402ba203/1591164566364/Rapport-Cybersakerhet-Rekommenderade-Atgarder.pdf
 
 2020-10-09 8:00
-If you want to do ONE #security improvement then add #2FA to your #login accounts. Select any 2FA app. I like #Authy because it also support Apple Watch.
+If you want to do ONE #security improvement then add #2FA to your #login accounts. Select any 2FA app. I like #Authy because they also support Apple Watch.
 https://authy.com/
 https://twitter.com/Authy
 
@@ -72,7 +72,7 @@ https://duckduckgo.com/
 
 2020-10-12 8:00
 In Sweden all internet providers must log what you do on the internet. A VPN tunnel effectively prevent that and also makes you a bit more anonymous on the net.
-#mullvad #vpn is my favourite and it is also used in the Mozilla VPN service.
+#mullvad #vpn is my favourite, and it is also used in the Mozilla VPN service.
 https://mullvad.net   
 https://vpn.mozilla.org/
 
