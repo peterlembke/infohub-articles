@@ -1,12 +1,14 @@
 ![What is infohub logo](../generic-image/pexels-eyüp-belen-1428626-en.jpg)
 
+![Updated](https://img.shields.io/badge/Updated-2021--12--27-blue?style=plastic&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAACiwAAAosB0n52eAAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAMrSURBVFiFvddNaJxFHAbw327WtmlDDNGGtOTQFCNai1+oPSmxiEqDBwMFvQie9KQnCSINLwYk6aEIehVBsBU/EVqlSGpQpBWEqhBrtR9Kow0EtB/52KRs4mF2k3e36+5sIj6Xd2fmmfk/OzP/j8mIRaJVRp8lu3EXtqGtOHoJv+F7HNPsiAFXY5bNRBi+FQN4Chsj5c7ikCYj9vl1dQIOaHbFEF5ELtJwJa7hdQxK5OMFDOlR8DF21jVxCjehoybrhBv0e8XF+gJedY9FR7G55pLz+ALf4TbhgGpjAn0SP6Y7s2WUIT1RxuGTonH4WbiCtdGFIxKd1QUkNij4IMo43J/6vRNbomZ14bADmksdTctDvYbxZNQy0C4cw914RCPXdKt5BWPGKN2B4GrjDS2zNkyjR2KydAQD/6NxaMEgZCRacVF8kPmvMKPZlqyMvoaN5/EN3saVVQvYJG9Prhjb41DAt/iqKGK9sJmrxZLdOSGx1MdpHMVfqb5tKiNJo7gzh+6alALewQwewC84VxyrPTMG23NorStgF24XnPbvlIDtaxZwY33XW4cdqfZE8dsiNmbWRFYj93iO5XzWLaaaqIfLWZyPpp/FYkrA2nEuK5RRcUjXNms/f/ghi2NR1CVhBwiJqK0GNxYZo1kcFpysNv4QUgjB/9eOGUs+z0pM47269PT2b60Yu2bFO+JxUGI6xLEmI8Vl4gSUIkceX+MNTIWuHVO89SkHP+LB3/91tQUMk3akxH68VJU+h5FUu0u4B6eF43gstG+e5dSb4QsLTdz7HOPXF6zDEi9THskHcaKqgKmK9gQmsRdPF8Vg18SKcVhX4NGzKnFcu6TUSNeEeaEku3DdlHSybiuynsct5bTxjvCv0zhZXiv+KWevF8yXOsrpY6b1GsUT0jliIzqFvPm4UIBWiYKXNvBTB3dMcXU9SS/vr7wsLsjaY58z6TnVg+lrNlvwIR6qOt44jqNfYrJyoKkKmVGz+h0yZxH3CSlpNVjAfu2eNeByNULM47RTuKDPYFOk4Rm8ixHJcvKuivh8lmgpPs8fFl4D3cqf5+dxEl/is2KAq4t/AAYjvll5VkUmAAAAAElFTkSuQmCC)
+
 # What is Infohub?
 Audience: You  
 Read time: 4 minutes (double that if the puppy want attention)
 
 Hi. My name is [Peter](https://www.linkedin.com/in/peter-lembke-4b607293/), and I am the creator of [Infohub](https://infohub.se/).
 
-Infohub is your private hub on the Web. You can store private information. Only you can read your information in your browser.
+Infohub is your private hub on the Web. You can store private information. Only you can read your information in your browser on all of your devices.
 
 Home page: [https://infohub.se/](https://infohub.se/)
 
@@ -49,9 +51,9 @@ The screen size does not matter. During development, I use iPhone SE 2016 as a r
 Infohub is very conservative with the number of requests and the amount of data downloaded from the server but still you need at least a slow 3G or better. Data are stored in the browser and are reused.
 
 ## What do I need to host Infohub?
-You need a normal web hotel. Infohub have been tested on Apache 2 web server and PHP 7.3 or 7.4. You also need some database. Infohub support right now MySQL, MariaDB, SQLite, PostgreSQL.
+You need a normal web hotel. Infohub have been tested on Apache 2 web server and PHP 8.x. You also need a database. Infohub support right now MySQL, MariaDB, SQLite, PostgreSQL.
 
-If you are comfortable installing your own server you can run Infohub on a Raspberry Pi3. I use Pi3 during development.
+If you are comfortable installing your own server you can even run Infohub on a Raspberry Pi3.
 
 ## What do I need to develop applications in Infohub?
 You need basic development skills and know some copy and paste. The code is very similar between PHP and Javascript and uses clean commands. Some would say it looks like Basic.
