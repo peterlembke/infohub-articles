@@ -1,32 +1,32 @@
 ![Install Infohub](../generic-image/pexels-vlada-karpovich-4050295-en.jpg)
 
 # Infohub installation
-Audience: Persons that want to run their own Infohub web site.
+Audience: Persons that want to run their own Infohub website.
 Read time: 4 min
 
-Hi. My name is [Peter](https://www.linkedin.com/in/peter-lembke-4b607293/) and I am the creator of [Infohub](https://infohub.se/).
+Hi. My name is [Peter](https://www.linkedin.com/in/peter-lembke-4b607293/), and I am the creator of [Infohub](https://infohub.se/).
 
 In this article I will talk about how you can install and run Infohub on your own web hotel or own server.
 
 ## Infohub requirements
 Infohub need a web server. Infohub have been developed on Apache 2 but will probably work on Nginx. I have not tested Infohub on Microsoft IIS but as long as it runs PHP it should work.
 
-You also need PHP 7.2 or later. Infohub does not use anything fancy so it should work on any PHP 7.x.
+You also need PHP 8.0 or later. Infohub does not use anything fancy, so it should work on any PHP 7.x.
 
 You need some database. Infohub support MySQL, MariaDB, SQLite, PostgreSQL.
 
-And you need the source code from [Github](https://github.com/peterlembke/infohub)
+And you need the source code from [GitHub](https://github.com/peterlembke/infohub)
 See file [vagrant.sh](https://github.com/peterlembke/infohub/blob/master/vagrant/vagrant.sh) what php plugins you need to install.
 
 ## Web hotel
 Most web hotels have what is required to run Infohub. It is convenient to just rent a web package and get professional help.
 
-To get a jackpot you also need HTTPS in your URL. Some web hotels do not provide that and it is not fine in the year of 2020 but we will manage.
+To get a jackpot you also need HTTPS in your URL. Some web hotels do not provide that, and it is not fine in the year of 2021, but we will manage.
 
 ![web hotel](../generic-image/woman-standing-while-carrying-laptop-1181354.jpg)
 
 ## Own server
-If you are comfortable with installing your own server you can run Infohub on a Raspberry Pi3. I use Pi3 during development for final tests of a release before I deploy to the web hotel.
+If you are comfortable installing your own server you can run Infohub on a Raspberry Pi3. I use Pi3 during development for final tests of a release before I deploy to the web hotel.
 
 There are many guides on the Internet how to set this up. With some training it will go easier.
 
@@ -48,7 +48,7 @@ If you have HTTPS you will also be able to run the service worker in Infohub. Th
 We can manage without HTTPS.
 
 ### Public folder
-Some web hotels have a public folder. Everything in public_html should be there. The rest of the files go outside of that folder. It does not matter what the public folder name is. Infohub will cope.
+Some web hotels have a public folder. Everything in public_html should be there. The rest of the files go outside that folder. It does not matter what the public folder name is. Infohub will cope.
 
 ### Database
 You need to configure a main database in file `folder/config/infohub_storage_data.json`
