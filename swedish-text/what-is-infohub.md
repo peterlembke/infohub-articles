@@ -26,7 +26,7 @@ Appen **Välkommen** ger dig en idé vad du kan göra med Infohub som användare
 
 Appen **Inställningar**, här kan du sätta förstoringsgraden och önskade språk. **Logga in** har funktioner som hanterar ditt loginkonto. **Avkopplat** kan ladda ned alla applicationer och tillgångar du har rättigheter till så du kan köra Infohub utan Internet för ett tag.
 
-Utvecklare kan använda appen  **Översätt** på valfri applikation för att kunna köra applikationen på olika språk. Jag brukar normalt översätta till Spanska, Engelska och Svenska. 
+Utvecklare kan använda appen **Översätt** på valfri applikation för att kunna köra applikationen på olika språk. Jag brukar normalt översätta till Spanska, Engelska och Svenska. 
 
 Utvecklare kan också se hur meddelanden används i appen **Demo anrop**, hitta full dokumentation i **Dokumentation**, rensa cache i **Avlusning**. Din applikation kan prenumerera på tangentbordskombinationer via **Tangentbord**.
 

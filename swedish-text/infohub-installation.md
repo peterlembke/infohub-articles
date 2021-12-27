@@ -16,7 +16,7 @@ Infohub behöver en webbserver. Infohub har utvecklats på Apache 2 men kommer a
 Du behöver även PHP 8.0 eller senare. Infohub använder ganska enkel PHP kod. Det borde fungera på vilken PHP 8.x som helst.
 Du behöver minst en databas. Infohub har stöd för MySQL, MariaDB, SQLite, PostgreSQL.
 
-Och du behöver källkoden från [Github](https://github.com/peterlembke/infohub)  
+Och du behöver källkoden från [Github](https://github.com/peterlembke/infohub).  
 Se filen [vagrant.sh](https://github.com/peterlembke/infohub/blob/master/vagrant/vagrant.sh) vilka PHP plugins som du behöver installera.
 
 ## Webbhotell

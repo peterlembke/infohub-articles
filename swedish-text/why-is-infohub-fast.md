@@ -4,7 +4,7 @@
 
 # Varför är Infohub snabbt?
 
-Publik: Utvecklare, Avancerade användare  
+Publik: Utvecklare, Avancerade användare.  
 Lästid: 4 minuter
 
 Hej. Jag heter [Peter](https://www.linkedin.com/in/peter-lembke-4b607293/) och jag skapade [Infohub](https://infohub.se/).

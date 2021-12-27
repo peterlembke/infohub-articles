@@ -7,4 +7,4 @@ Jag skriver alltid den engelska artikeln först och översätter den sedan till 
 
 Jag behåller det engelska filnamnet för att lättare kunna hitta samma fil på olika språk.
 
-Jag använder inte mellanslag i filnamnen så de går att använda lättare i URLer.
+Jag använder inte mellanslag i filnamnen så de går att använda lättare i URL:er.
